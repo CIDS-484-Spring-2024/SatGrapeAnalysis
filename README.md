@@ -1,4 +1,4 @@
-# Understanding grape production via satellites
+# Analysis of Grapevine Growth Using Satellite
 
 ## Goals 
 This research project aims to leverage satellite technology for an exploration of grape vegetation dynamics, with a focus on understanding the factors influencing optimal grape production. The study involves satellite-based observations and analysis to discover insights into vineyard health, growth patterns, and key determinants of grape yields.
