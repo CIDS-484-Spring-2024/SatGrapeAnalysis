@@ -6,16 +6,6 @@ This research project aims to leverage satellite technology for an exploration o
 ## Resources & Methods
 ### Exploratory Question and Methods
 * Where grapes grow(area of interest): https://croplandcros.scinet.usda.gov/
-* Methods
-Exploratory Question:
-・What is the relationship between the four variables and NDVI (Normalized Difference Vegetation Index)?​
- -  Correlation Coefficient​
- - Multiple Regression Analysis​
-Hypotheses:​
-・Hypothesis 1: There exists a positive relation between precipitation levels and Normalized Difference Vegetation Index (NDVI), suggesting that increased precipitation is associated with higher NDVI values, indicating healthier vegetation.​
-- Linear Regression Analysis​
-Hypothesis 2: A positive correlation is anticipated between NDVI values and the yield, suggesting that  higher NDVI value are associated with higher yield.​
-- Linear Regression Analysis​
 
 ### Satellites and Sensors
 * Aqua: https://aqua.nasa.gov/
