@@ -20,3 +20,6 @@ I am working with Professor Susanne Wiesner from the Earth Science department at
 Currently, I am conducting statistical analysis based on the model I have created. For more info, please look at my slide and presentation. 
 Milestone 3 video: https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/2370711/uiconf_id/42909941/entry_id/1_u7ucyjm4/embed](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/2370711/uiconf_id/42909941/entry_id/1_u7ucyjm4/embed/dynamic
 Slide: https://uwrf-my.sharepoint.com/:p:/r/personal/yuki_mitsuno_my_uwrf_edu/Documents/Senior%20Capstone%20Project/SeniorCapProMilestone3.pptx?d=w18bf1b8326b644c4ab810d93441d29a7&csf=1&web=1&e=vFGr5B
+
+## Update (5/1/2024)
+The final research paper has been uploaded to GitHub.
